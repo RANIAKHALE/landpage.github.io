@@ -1,0 +1,27 @@
+
+         body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: url("arabic-lantern-with-candle-mosque-background-ramadan_875825-38732.avif")  no-repeat center top;
+            background-size:cover;
+            color: white;
+            margin: 0;
+            padding: 50px 20px;
+        }
+
+        h1 {
+            font-size: 40px;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 10px;
+            border-radius: 10px;
+        }
+
+        p {
+            font-size: 20px;
+            max-width: 500px;
+            margin: 20px auto;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 15px;
+            border-radius: 10px;
+        }
+    
